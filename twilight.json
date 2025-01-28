@@ -879,6 +879,13 @@
                     "source": "brands"
                 }
             ]
+        },
+        {
+            "key": "cb9ff02d-b069-47fd-9612-845fcd6545b9",
+            "title": "بانر عريض براند",
+            "icon": "sicon-store",
+            "path": "home.brand-full",
+            "fields": []
         }
     ],
     "support_url": null,
